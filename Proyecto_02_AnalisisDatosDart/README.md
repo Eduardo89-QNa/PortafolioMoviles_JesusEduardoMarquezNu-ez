@@ -1,5 +1,3 @@
-### **2. README para Proyecto_02_AnalisisDatosDart**
-
 # Proyecto 02 - Análisis de Datos con Dart
 
 ## Nombre del proyecto
