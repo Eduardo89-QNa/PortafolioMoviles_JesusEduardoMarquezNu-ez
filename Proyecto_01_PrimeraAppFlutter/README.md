@@ -27,7 +27,7 @@ Facilita la generación rápida de ideas creativas y permite al usuario organiza
 
 - Interfaz principal con palabra aleatoria
 - Botón "Next" funcionando
-- Lista de favoritos (si la implementaste)
+- Lista de favoritos
 
 ## Instrucciones de ejecución
 1. Clonar el repositorio
