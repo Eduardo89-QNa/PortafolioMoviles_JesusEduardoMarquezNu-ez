@@ -23,7 +23,7 @@ Facilita la generación rápida de ideas creativas y permite al usuario organiza
 - Navegación y refactorización de código
 
 ## Capturas de pantalla
-*(Agrega aquí tus imágenes en la carpeta `capturas/`)*
+*(`capturas/`)*
 
 - Interfaz principal con palabra aleatoria
 - Botón "Next" funcionando
