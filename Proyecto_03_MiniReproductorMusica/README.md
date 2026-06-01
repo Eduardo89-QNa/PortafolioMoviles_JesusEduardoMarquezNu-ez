@@ -1,5 +1,3 @@
-### **3. README para Proyecto_03_MiniReproductorMusica**
-
 # Proyecto 03 - Mini Reproductor de Música en Flutter
 
 ## Nombre del proyecto
