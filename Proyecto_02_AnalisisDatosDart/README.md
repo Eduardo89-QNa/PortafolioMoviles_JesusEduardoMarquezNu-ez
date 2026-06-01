@@ -37,3 +37,11 @@ Automatiza el análisis de datos almacenados en formato JSON, facilitando búsqu
 2. Ejecutar:
    ```bash
    dart run main.dart
+
+## Reflexión personal
+1. ¿Qué aprendí?
+- Aprendí a trabajar con archivos JSON, manejo de clases y Null Safety en Dart.
+2. ¿Qué fue difícil?
+- Manejar correctamente los errores al leer archivos y estructurar bien el menú interactivo.
+3. ¿Qué mejoraría?
+- Agregar más estadísticas, exportar a CSV y mejorar la validación de entradas del usuario.
