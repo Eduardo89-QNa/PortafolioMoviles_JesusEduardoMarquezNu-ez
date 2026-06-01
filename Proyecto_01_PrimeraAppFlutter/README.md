@@ -36,3 +36,11 @@ Facilita la generación rápida de ideas creativas y permite al usuario organiza
    ```bash
    flutter pub get
    flutter run
+
+## Reflexión personal
+¿Qué aprendí?
+Aprendí los fundamentos de Flutter, cómo funciona el manejo de estado y la importancia de refactorizar el código para mejor legibilidad.
+¿Qué fue difícil?
+Entender el concepto de Provider y el uso correcto de notifyListeners() al principio.
+¿Qué mejoraría?
+Agregar persistencia de favoritos con SharedPreferences y mejorar el diseño visual con temas más elaborados.
